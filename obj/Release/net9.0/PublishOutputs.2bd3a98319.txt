@@ -1,0 +1,7 @@
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.exe
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\appsettings.json
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.dll
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.deps.json
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.runtimeconfig.json
+C:\Users\moises_granados\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.pdb
